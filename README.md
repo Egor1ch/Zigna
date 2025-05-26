@@ -1,7 +1,7 @@
 # Zigna
 Final JAVA desktop socket-chat application of 2nd quarter of 2025
 
-![Captura de pantalla 2025-05-26 183823](https://github.com/user-attachments/assets/d8ac9d11-8857-4cef-b176-3ffe9d3c8769)
-![server](https://github.com/user-attachments/assets/b3d5cc0d-34e0-4fae-a72e-a0e975790b89)
-![user](https://github.com/user-attachments/assets/6eac8c98-0576-48ed-a03b-7c85f56b85a4)
-![3](https://github.com/user-attachments/assets/46fd7abd-ba02-461c-abbd-0cbda0d68e80)
+![Captura de pantalla 2025-05-26 183823](https://github.com/user-attachments/assets/38f6651c-afe5-4e33-a051-768af99eb1d7)
+![server](https://github.com/user-attachments/assets/c643d634-629a-4132-859c-079903ab5fed)
+![user](https://github.com/user-attachments/assets/f6cc4dc3-4242-4aee-a83d-5955a8e2ce6e)
+![3](https://github.com/user-attachments/assets/1fe2b69d-f2a3-4f72-9875-51596846ce4a)
