@@ -1,4 +1,5 @@
 # Zigna
+⬇️ [DOWNLOAD](https://raw.githubusercontent.com/your-username/your-repo/main/dist/my_app.zip)
 Final JAVA desktop socket-chat application of 2nd quarter of 2025
 The start window shows two buttons: 
 "Start Server" and "Enter as Client", allowing the user to choose between running the server or connecting as a client.
