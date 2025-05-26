@@ -1,5 +1,7 @@
 # Zigna
-⬇️ [DOWNLOAD][[(https://raw.githubusercontent.com/your-username/your-repo/main/dist/my_app.zip)](https://downgit.github.io/#/home?](https://downgit.github.io/#/home?url=https://github.com/Egor1ch/Zigna/blob/f43f1de5c8acddc9be73c758f288704170ced74e/Zigna.jar)url=https://github.com/Egor1ch/Zigna/blob/f43f1de5c8acddc9be73c758f288704170ced74e/Zigna.jar)
+<a href="https://github.com/Egor1ch/Zigna/raw/refs/heads/main/Zigna.jar" download>
+  <img src="https://img.shields.io/badge/Download-%20ZIP-blue?style=for-the-badge&logo=github" alt="Download">
+</a>
 
 Final JAVA desktop socket-chat application of 2nd quarter of 2025
 The start window shows two buttons: 
