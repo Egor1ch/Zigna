@@ -1,6 +1,6 @@
 # Zigna
 <a href="https://github.com/Egor1ch/Zigna/raw/refs/heads/main/Zigna.jar" download>
-  <img src="https://img.shields.io/badge/Download-%20ZIP-blue?style=for-the-badge&logo=github" alt="Download">
+   <img src="https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github" alt="Download">
 </a>
 
 Final JAVA desktop socket-chat application of 2nd quarter of 2025
